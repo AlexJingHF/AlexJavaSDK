@@ -18,6 +18,5 @@ public class Searcher extends AbstractSearcher
     @Override
     public void show()
     {
-
     }
 }
